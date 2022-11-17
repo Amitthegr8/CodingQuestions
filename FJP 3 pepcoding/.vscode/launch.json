@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch P005_differenceOfTwoArrays",
+            "request": "launch",
+            "mainClass": "class_009.P005_differenceOfTwoArrays",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD_LCM",
+            "request": "launch",
+            "mainClass": "class_001.GCD_LCM",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P001_PrintZ",
+            "request": "launch",
+            "mainClass": "class_001.P001_PrintZ",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P002_PrintT",
+            "request": "launch",
+            "mainClass": "class_001.P002_PrintT",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P003_Variables",
+            "request": "launch",
+            "mainClass": "class_001.P003_Variables",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P004_Input",
+            "request": "launch",
+            "mainClass": "class_001.P004_Input",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P005_GradingSystem",
+            "request": "launch",
+            "mainClass": "class_001.P005_GradingSystem",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P006_Loops",
+            "request": "launch",
+            "mainClass": "class_001.P006_Loops",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P001_functions",
+            "request": "launch",
+            "mainClass": "class_002.P001_functions",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P002_IsNumberPrime",
+            "request": "launch",
+            "mainClass": "class_002.P002_IsNumberPrime",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P003_CountNumberOfDigits",
+            "request": "launch",
+            "mainClass": "class_002.P003_CountNumberOfDigits",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P001_InverseOfDigit",
+            "request": "launch",
+            "mainClass": "class_003.P001_InverseOfDigit",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P002_BenjaminBulbs",
+            "request": "launch",
+            "mainClass": "class_003.P002_BenjaminBulbs",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P003_PythagoreanTriplet",
+            "request": "launch",
+            "mainClass": "class_003.P003_PythagoreanTriplet",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P001_RotateNum",
+            "request": "launch",
+            "mainClass": "class_004.P001_RotateNum",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P002_PrimeFactorisation",
+            "request": "launch",
+            "mainClass": "class_004.P002_PrimeFactorisation",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch P003_patternSir01",
+            "request": "launch",
+            "mainClass": "class_004.P003_patternSir01",
+            "projectName": "FJP 3 pepcoding_dde0b1b6"
+        }
+    ]
+}

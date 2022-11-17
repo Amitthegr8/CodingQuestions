@@ -1,0 +1,2 @@
+// pattern 5 diamond
+// pattern  hollow diamond
